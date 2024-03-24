@@ -1,0 +1,14 @@
+C:\Users\comp\source\repos\shushacalculator\bin\Debug\net8.0\shushacalculator.exe
+C:\Users\comp\source\repos\shushacalculator\bin\Debug\net8.0\shushacalculator.deps.json
+C:\Users\comp\source\repos\shushacalculator\bin\Debug\net8.0\shushacalculator.runtimeconfig.json
+C:\Users\comp\source\repos\shushacalculator\bin\Debug\net8.0\shushacalculator.dll
+C:\Users\comp\source\repos\shushacalculator\bin\Debug\net8.0\shushacalculator.pdb
+C:\Users\comp\source\repos\shushacalculator\obj\Debug\net8.0\shushacalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp\source\repos\shushacalculator\obj\Debug\net8.0\shushacalculator.AssemblyInfoInputs.cache
+C:\Users\comp\source\repos\shushacalculator\obj\Debug\net8.0\shushacalculator.AssemblyInfo.cs
+C:\Users\comp\source\repos\shushacalculator\obj\Debug\net8.0\shushacalculator.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\shushacalculator\obj\Debug\net8.0\shushacalculator.dll
+C:\Users\comp\source\repos\shushacalculator\obj\Debug\net8.0\refint\shushacalculator.dll
+C:\Users\comp\source\repos\shushacalculator\obj\Debug\net8.0\shushacalculator.pdb
+C:\Users\comp\source\repos\shushacalculator\obj\Debug\net8.0\shushacalculator.genruntimeconfig.cache
+C:\Users\comp\source\repos\shushacalculator\obj\Debug\net8.0\ref\shushacalculator.dll
